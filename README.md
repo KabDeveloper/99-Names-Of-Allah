@@ -8,7 +8,8 @@ JSON file for 99 Names Of Allah with various translations (Meaning + Description
 
 Work in progress for other languages.
 
-You can contribute, the door is open.
+> Verse and Hadith about Names of Allah
+
 
 قال تعالى: (وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا)
 
@@ -16,6 +17,9 @@ You can contribute, the door is open.
 
 النبى صلى الله عليه وسلم قال "إن لله تسعة وتسعين اسما "مائة إلا واحدا" من أحصاها دخل الجنة، إنه وتر يحب الوتر" ثم ذكر الأسماء.
 
+> Contribution
+
+You can contribute, the door is open (Including references is required).
 
 > *_References:_*
 
