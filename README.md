@@ -21,3 +21,5 @@ FR: https://fr.wikipedia.org/wiki/D%C3%A9nomination_de_Dieu_dans_l%27islam
 ENG: https://en.wikipedia.org/wiki/Names_of_God_in_Islam
 
 ENG: https://simple.wikipedia.org/wiki/Names_of_God_in_Islam
+
+ENG: https://99namesofallah.name/
