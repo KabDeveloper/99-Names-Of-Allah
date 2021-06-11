@@ -9,3 +9,10 @@ Support: French, English
 Work in progress for other languages.
 
 You can contribute, the door is open.
+
+قال تعالى: (وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَى فَادْعُوهُ بِهَا)
+
+_References:_
+FR: https://fr.wikipedia.org/wiki/D%C3%A9nomination_de_Dieu_dans_l%27islam
+ENG: https://en.wikipedia.org/wiki/Names_of_God_in_Islam
+ENG: https://simple.wikipedia.org/wiki/Names_of_God_in_Islam
