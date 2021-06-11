@@ -1,5 +1,5 @@
 # 99-Names-Of-Allah
-JSON file for 99 Names Of Allah with various translations (Meaning + Description)
+JSON file for 99 Names Of Allah with various translations (Meaning + Description) and verses where found !
 
 Support: French, English
 
